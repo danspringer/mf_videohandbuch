@@ -1,0 +1,12 @@
+# addon:mf_videohandbuch de_de
+mf_videohandbuch_title = Videohandbuch
+mf_videohandbuch_videos = Videos
+mf_videohandbuch_editvideos = Videos verwalten
+mf_videohandbuch_norowsmessage = Noch keine Videos vorhanden
+mf_videohandbuch_label_name = Videotitel
+mf_videohandbuch_formcaption_add = Neues Video hinzufügen
+mf_videohandbuch_description = Video-Beschreibung
+mf_videohandbuch_label_description = Beschreibung
+mf_videohandbuch_label_videoid = Video-ID (YouTube-ID)
+mf_videohandbuch_formcaption_edit = Video bearbeiten
+mf_videohandbuch_column_name = Videotitel

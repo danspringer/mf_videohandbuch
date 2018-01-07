@@ -1,2 +1,3 @@
-# mf_videohandbuch
-Eine Sammlung an YouTube-Videos für das REDAXO 5 Backend.
+# Videohandbuch
+Bietet die Möglichkeit, YouTube-Videos im Backend von Redaxo zu archivieren, um sie für Redakteure zusammenzufassen.
+So kann man für die Redakteure / Kunden z.B. privat gelistete Screencasts auf Youtube hinterlegen, um Erläuterungen und Tutorials für die Benutzung von Redaxo aufzulisten.

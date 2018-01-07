@@ -1,0 +1,21 @@
+# Alle hier gesetzten Werte können über $addon->getProperty($key) abgefragt werden
+
+package: mf_videohandbuch
+version: '0.9'
+author: 'Daniel Springer, Medienfeuer'
+compile: 0
+
+page:
+  title: 'Videohandbuch'
+  perm: mf_videohandbuch[]
+  pjax: true
+  icon: rex-icon fa fa-play-circle-o
+  subpages:
+    videos: { title: 'translate:mf_videohandbuch_videos', perm: 'mf_videohandbuch[videos]', icon: rex-icon fa-video-camera } # Videoliste
+    editvideos: { title: 'translate:mf_videohandbuch_editvideos', perm: 'mf_videohandbuch[editvideos]', icon: rex-icon fa-wrench } # Videoliste bearbeiten
+
+
+requires:
+    packages:
+    
+    redaxo: '>=5.4'
